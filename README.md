@@ -4,7 +4,7 @@ Calendar web application for adding, editing, deleting or listing other people's
 
 *API, CRUD, Auth system, JWT, Redux, Calendar.*
 
-## [Try demo](https://mern-redux-calendar.herokuapp.com/)
+
 
 <img src="./preview.jpeg">
 
